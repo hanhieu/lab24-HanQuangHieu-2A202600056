@@ -1,0 +1,6 @@
+query,sanitized_query,safe_response,input_triggered,output_triggered,total_latency_ms
+"What is John Smith's email?","What is [PERSON]'s email?","[PERSON]'s email is [EMAIL].",True,False,142.3
+"Explain data breach notification requirements.","Explain data breach notification requirements.","Under Decree 13/2023/ND-CP, data controllers must notify the Ministry of Public Security within 72 hours of discovering a breach.",False,False,98.5
+"My CCCD is 012345678901, what are my rights?","My CCCD is [CCCD], what are my rights?","You have the right to access, correct, and delete your personal data.",True,False,115.7
+"This is a stupid question.","This is a stupid question.","[RESPONSE BLOCKED: Toxic content detected]",False,True,185.2
+"What are the DPO requirements?","What are the DPO requirements?","A DPO is required for organizations processing sensitive data on a large scale. They must be independent and qualified.",False,False,92.4

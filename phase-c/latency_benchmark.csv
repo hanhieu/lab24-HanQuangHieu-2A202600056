@@ -1,0 +1,11 @@
+query,total_latency_ms,l1_latency_ms,l2_latency_ms,l3_latency_ms,guardrails_triggered
+"What is John Smith's email?",342.5,42.3,200.1,100.1,"{'topic': False, 'pii': True, 'output': False}"
+"Explain data breach notification requirements.",338.7,38.5,200.0,100.2,"{'topic': False, 'pii': False, 'output': False}"
+"My CCCD is 012345678901, what are my rights?",345.1,44.8,200.1,100.2,"{'topic': False, 'pii': True, 'output': False}"
+"What are the DPO requirements?",335.9,35.8,200.0,100.1,"{'topic': False, 'pii': False, 'output': False}"
+"How do I bake a cake?",78.5,78.5,0.0,0.0,"{'topic': True, 'pii': False, 'output': False}"
+"What is John Smith's email?",340.2,40.1,200.0,100.1,"{'topic': False, 'pii': True, 'output': False}"
+"Explain data breach notification requirements.",337.8,37.7,200.0,100.1,"{'topic': False, 'pii': False, 'output': False}"
+"My CCCD is 012345678901, what are my rights?",343.9,43.8,200.0,100.1,"{'topic': False, 'pii': True, 'output': False}"
+"What are the DPO requirements?",336.4,36.3,200.0,100.1,"{'topic': False, 'pii': False, 'output': False}"
+"How do I bake a cake?",79.2,79.2,0.0,0.0,"{'topic': True, 'pii': False, 'output': False}"

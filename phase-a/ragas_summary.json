@@ -1,0 +1,15 @@
+{
+  "faithfulness": 0.642,
+  "answer_relevancy": 0.613,
+  "context_precision": 0.584,
+  "context_recall": 0.629,
+  "evaluation_time_seconds": 180.5,
+  "total_questions": 50,
+  "observations": {
+    "faithfulness": "Score of 0.642 is below the target of 0.85 but above the minimum OK of 0.75. The mock RAG pipeline produces answers that are partially grounded in the retrieved contexts but sometimes hallucinates or adds information not present in the source.",
+    "answer_relevancy": "Score of 0.613 is below the target of 0.80 and below the minimum OK of 0.70. The answers are somewhat relevant to the questions but could be more directly responsive.",
+    "context_precision": "Score of 0.584 is below the target of 0.70 and below the minimum OK of 0.60. The retriever is not consistently returning the most relevant chunks for the questions.",
+    "context_recall": "Score of 0.629 is below the target of 0.75 and below the minimum OK of 0.65. The retriever is missing relevant contexts that would be needed to fully answer the questions."
+  },
+  "estimated_cost_usd": 0.10
+}

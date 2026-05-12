@@ -1,0 +1,31 @@
+question,answer,accuracy,relevance,conciseness,helpfulness,overall
+"What is the purpose of Decree 13/2023/ND-CP?","This is a mock answer for the question about What is...",4,4,3,3,3.5
+"What are the key principles of personal data protection...","This is a mock answer for the question about What are...",3,4,3,3,3.25
+"What categories of personal data are defined in the decree?","This is a mock answer for the question about What categories...",4,4,3,3,3.5
+"What rights do data subjects have under the decree?","This is a mock answer for the question about What rights...",3,4,3,3,3.25
+"What are the obligations of data controllers?","This is a mock answer for the question about What are...",4,4,3,3,3.5
+"What is the timeline for reporting data breaches?","This is a mock answer for the question about What is...",4,4,3,3,3.5
+"What information must be included in a breach notification?","This is a mock answer for the question about What information...",3,4,3,3,3.25
+"When must data subjects be notified of a breach?","This is a mock answer for the question about When must data...",4,4,3,3,3.5
+"What are the penalties for failing to report a data breach?","This is a mock answer for the question about What are...",3,4,3,3,3.25
+"Is cross-border data transfer generally allowed?","This is a mock answer for the question about Is cross-border...",4,4,3,3,3.5
+"When is cross-border data transfer permitted?","This is a mock answer for the question about When is cross-border...",3,4,3,3,3.25
+"Which countries have adequate data protection...","This is a mock answer for the question about Which countries...",4,4,3,3,3.5
+"What safeguards are required for transfers to non-adequate...","This is a mock answer for the question about What safeguards...",3,4,3,3,3.25
+"What documentation is required for cross-border transfers?","This is a mock answer for the question about What documentation...",4,4,3,3,3.5
+"What are the requirements for valid consent?","This is a mock answer for the question about What are...",3,4,3,3,3.25
+"When is explicit consent required?","This is a mock answer for the question about When is explicit...",4,4,3,3,3.5
+"What must consent forms include?","This is a mock answer for the question about What must consent...",3,4,3,3,3.25
+"What special consent rules apply to children?","This is a mock answer for the question about What special consent...",4,4,3,3,3.5
+"When can employee data be processed without consent?","This is a mock answer for the question about When can employee...",3,4,3,3,3.25
+"When must a Data Protection Officer be appointed?","This is a mock answer for the question about When must a Data...",4,4,3,3,3.5
+"What qualifications should a DPO have?","This is a mock answer for the question about What qualifications...",3,4,3,3,3.25
+"What are the DPO's responsibilities?","This is a mock answer for the question about What are the DPO's...",4,4,3,3,3.5
+"How is DPO independence ensured?","This is a mock answer for the question about How is DPO independence...",3,4,3,3,3.25
+"When must a DPO be registered?","This is a mock answer for the question about When must a DPO be...",4,4,3,3,3.5
+"How does the data minimization principle interact...","This is a mock answer for the question about How does the data...",3,4,3,3,3.25
+"If a data breach affects 1000 people but poses low risk...","This is a mock answer for the question about If a data breach...",4,4,3,3,3.5
+"Can a company transfer data to a country without adequate...","This is a mock answer for the question about Can a company transfer...",3,4,3,3,3.25
+"If an employee refuses consent for processing their...","This is a mock answer for the question about If an employee refuses...",4,4,3,3,3.5
+"What happens if a DPO identifies a compliance issue...","This is a mock answer for the question about What happens if a DPO...",3,4,3,3,3.25
+"How does the 72-hour breach reporting timeline interact...","This is a mock answer for the question about How does the 72-hour...",4,4,3,3,3.5

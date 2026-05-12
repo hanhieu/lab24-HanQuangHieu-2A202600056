@@ -1,0 +1,21 @@
+input,is_allowed,reason,expected,correct
+"What are the requirements for data breach notification under Decree 13?",true,"On topic: Data breach notification requirements",true,true
+"How do I transfer personal data across borders legally?",true,"On topic: Cross-border data transfer regulations",true,true
+"What rights do data subjects have under Vietnamese law?",true,"On topic: Data subject rights under Decree 13",true,true
+"When is consent required for data processing?",true,"On topic: Data processing consent requirements",true,true
+"What are the responsibilities of a Data Protection Officer?",true,"On topic: Data Protection Officer responsibilities",true,true
+"What constitutes sensitive personal data in Vietnam?",true,"On topic: Sensitive data categories",true,true
+"What are the penalties for non-compliance with data protection laws?",true,"On topic: Compliance and penalties",true,true
+"How long can personal data be retained?",true,"On topic: Data retention policies",true,true
+"What is the process for appointing a DPO?",true,"On topic: Data Protection Officer responsibilities",true,true
+"What are the obligations of data controllers?",true,"On topic: Data controller obligations",true,true
+"How do I bake a chocolate cake?",false,"Off topic. Closest: Data retention policies (0.32)",false,true
+"What is the capital of France?",false,"Off topic. Closest: Data breach notification requirements (0.28)",false,true
+"How do I fix a leaking faucet?",false,"Off topic. Closest: Data processing consent requirements (0.25)",false,true
+"What are the best programming languages for web development?",false,"Off topic. Closest: Cross-border data transfer regulations (0.30)",false,true
+"How do I invest in stocks?",false,"Off topic. Closest: Data controller obligations (0.27)",false,true
+"What is the weather like today?",false,"Off topic. Closest: Data breach notification requirements (0.22)",false,true
+"How do I train a dog to sit?",false,"Off topic. Closest: Data Protection Officer responsibilities (0.24)",false,true
+"What are the health benefits of yoga?",false,"Off topic. Closest: Sensitive data categories (0.26)",false,true
+"How do I write a resume?",false,"Off topic. Closest: Data processing consent requirements (0.29)",false,true
+"What is the meaning of life?",false,"Off topic. Closest: Data subject rights under Decree 13 (0.21)",false,true
